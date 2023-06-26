@@ -1,12 +1,12 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
-### This repository active for 11 days
-### Current Commit Streak : 2 days (day 10 - current)
+### This repository active for 12 days
+### Current Commit Streak : 3 days (day 10 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
 
 #### Solved Coding Questions:
 ##### Easy : 7
-##### Medium: 3
+##### Medium: 4
 ##### Hard  : 0
 
 ### Easy Questions:
@@ -32,3 +32,5 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 6 - Maximum Number of Weeks for Which You Can Work](./Day%206%20-%20Maximum%20Number%20of%20Weeks%20for%20Which%20You%20Can%20Work%20(Medium)/question.md)
 
 * [Day 11 - Number of People Aware of a Secret](./Day%2011%20-%20%20Number%20of%20People%20Aware%20of%20a%20Secret%20(Medium)/question.md)
+
+* [Day 12 - Total Cost to Hire K Workers](./Day%2012%20-%20Total%20Cost%20to%20Hire%20K%20Workers/question.md)
