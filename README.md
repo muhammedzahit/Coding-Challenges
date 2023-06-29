@@ -1,12 +1,12 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
-### This repository active for 13 days
-### Current Commit Streak : 4 days (day 10 - current)
+### This repository active for 15 days
+### Current Commit Streak : 1 days (day 15 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
 
 #### Solved Coding Questions:
 ##### Easy : 7
-##### Medium: 5
+##### Medium: 6
 ##### Hard  : 0
 
 ### Easy Questions:
@@ -36,3 +36,5 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 12 - Total Cost to Hire K Workers](./Day%2012%20-%20Total%20Cost%20to%20Hire%20K%20Workers/question.md)
 
 * [Day 13 - Find K Pairs with Smallest Sums](./Day%2013%20-%20Find%20K%20Pairs%20with%20Smallest%20Sums%20(Medium)/question.md)
+
+* [Day 15 - Path with Maximum Probability](./Day%2015%20-%20Path%20with%20Maximum%20Probability/question.md)
