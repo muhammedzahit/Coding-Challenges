@@ -1,11 +1,11 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
-### This repository active for 15 days
-### Current Commit Streak : 1 days (day 15 - current)
+### This repository active for 16 days
+### Current Commit Streak : 2 days (day 15 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
 
 #### Solved Coding Questions:
-##### Easy : 7
+##### Easy : 8
 ##### Medium: 6
 ##### Hard  : 0
 
@@ -24,6 +24,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 8 - Minimum Cuts to Divide a Circle](./Day%208%20-%20Minimum%20Cuts%20to%20Divide%20a%20Circle%20(Easy)/question.md)
 
 * [Day 10 - Duplicate Zeros](./Day%2010%20-%20Duplicate%20Zeros%20(Easy)/question.md)
+
+* [Day 16- Maximum Product of Three Numbers](./Day%2016%20-%20Maximum%20Product%20of%20Three%20Numbers%20(Easy)/question.md)
 
 ### Medium Questions:
 

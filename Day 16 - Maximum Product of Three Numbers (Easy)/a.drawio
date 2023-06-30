@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="qxn2q8qMrZop0QfvPjU0" name="Page-1">
+        <mxGraphModel dx="1852" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="365" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Sorted Array = [A,B,C ....... D,E,F]&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="110" width="330" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="485" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="F * E &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="296.25" y="280" width="137.5" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="370" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="433.75" y="370" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Max (F*E*D,&lt;br&gt;A*B*F)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="470" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Max (D*E*F)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="470" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font color=&quot;#6666ff&quot;&gt;Since F*E biggest value in the array and if their product is smaller than zero, we can pick higher values because&amp;nbsp;&amp;nbsp;&lt;br&gt;array contains negative values&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="275" width="360" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font color=&quot;#6666ff&quot;&gt;Since we will product 3 numbers we try to find positive products. And we know F*E &amp;gt; 0, we can choose D beacause it is highest value after F,E.&amp;nbsp;&lt;br&gt;And because we know F &amp;gt; 0, we can choose A*B because A*B &amp;gt; 0 and might be bigger than F*E&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="-210" y="230" width="420" height="180" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
