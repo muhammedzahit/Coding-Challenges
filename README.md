@@ -1,14 +1,19 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
-### This repository active for 16 days
-### Current Commit Streak : 2 days (day 15 - current)
+
+### Current Commit Streak : 1 days (day 20 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
+### Participation Rate : 75% 
+######(Days committed / Total days) = 15/20 
+
+-----
 
 #### Solved Coding Questions:
 ##### Easy : 8
-##### Medium: 6
+##### Medium: 7
 ##### Hard  : 0
 
+-----
 ### Easy Questions:
 
 * [Day 1 - Find All K-Distant Indices in an Array](./Day%201%20-%20Find%20All%20K-Distant%20Indices%20in%20an%20Array%20(Easy)/question.md)
@@ -40,3 +45,5 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 13 - Find K Pairs with Smallest Sums](./Day%2013%20-%20Find%20K%20Pairs%20with%20Smallest%20Sums%20(Medium)/question.md)
 
 * [Day 15 - Path with Maximum Probability](./Day%2015%20-%20Path%20with%20Maximum%20Probability/question.md)
+
+* [Day 20 - Next Permutation](./Day%2020%20-%20Next%20Permutation/question.md)
