@@ -4,7 +4,7 @@ This repository is created for creating habit of daily coding. I will be adding 
 ### Current Commit Streak : 1 days (day 20 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
 ### Participation Rate : 75% 
-######(Days committed / Total days) = 15/20 
+(Days committed / Total days) = 15/20 
 
 -----
 
