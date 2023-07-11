@@ -3,14 +3,14 @@ This repository is created for creating habit of daily coding. I will be adding 
 
 ### Current Commit Streak : 1 days (day 20 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
-### Participation Rate : 75% 
-(Days committed / Total days) = 15/20 
+### Participation Rate : 76% 
+(Days committed / Total days) = 16/21 
 
 -----
 
 #### Solved Coding Questions:
 ##### Easy : 8
-##### Medium: 7
+##### Medium: 8
 ##### Hard  : 0
 
 -----
@@ -47,3 +47,5 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 15 - Path with Maximum Probability](./Day%2015%20-%20Path%20with%20Maximum%20Probability/question.md)
 
 * [Day 20 - Next Permutation](./Day%2020%20-%20Next%20Permutation/question.md)
+
+* [Day 21 - Sort an Array](./Day%2021%20-%20Sort%20an%20Array/question.md)
