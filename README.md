@@ -1,15 +1,15 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 3 days (day 23 - current)
+### Current Commit Streak : 1 days (day 74 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
-### Participation Rate : 76% 
-(Days committed / Total days) = 19/25 
+### Participation Rate : 27% 
+(Days committed / Total days) = 20/74 
 
 -----
 
 #### Solved Coding Questions:
-##### Easy : 11
+##### Easy : 12
 ##### Medium: 8
 ##### Hard  : 0
 
@@ -37,6 +37,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 24 - HTML Elements](./Day%2024%20-%20HTML%20Elements/question.md)
 
 * [Day 25 - Merge Sorted Array](./Day%2025%20-%20Merge%20Sorted%20Array/question.md)
+
+* [Day 74 - Make The String Great](./Day%2074%20-%20Make%20The%20String%20Great%20(Easy)/question.md)
 
 ### Medium Questions:
 
