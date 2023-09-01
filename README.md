@@ -1,15 +1,15 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 2 days (day 76 - current)
+### Current Commit Streak : 3 days (day 76 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
-### Participation Rate : 28.5% 
-(Days committed / Total days) = 22/77
+### Participation Rate : 29.5% 
+(Days committed / Total days) = 23/78
 
 -----
 
 #### Solved Coding Questions:
-##### Easy : 13
+##### Easy : 14
 ##### Medium: 9
 ##### Hard  : 0
 
@@ -41,6 +41,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 74 - Make The String Great](./Day%2074%20-%20Make%20The%20String%20Great%20(Easy)/question.md)
 
 * [Day 77 - N-th Tribonacci Number](./Day%2077%20-%20N-th%20Tribonacci%20Number/question.md)
+
+* [Day 78 - Counting Bits](./Day%2078%20-%20Counting%20Bits/question.md)
 
 ### Medium Questions:
 
