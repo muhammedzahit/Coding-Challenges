@@ -1,16 +1,16 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 4 days (day 76 - current)
+### Current Commit Streak : 5 days (day 76 - current)
 ### Longest Commit Streak : 8 days (day 1 - day 8)
-### Participation Rate : 30.4% 
-(Days committed / Total days) = 24/79
+### Participation Rate : 31.3% 
+(Days committed / Total days) = 25/80
 
 -----
 
 #### Solved Coding Questions:
 ##### Easy : 14
-##### Medium: 10
+##### Medium: 11
 ##### Hard  : 0
 
 -----
@@ -65,3 +65,5 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 76 - Course Schedule IV](./Day%2076%20-%20Course%20Schedule%20IV/question.md)
 
 * [Day 79 - Extra Characters in a String](./Day%2079%20-%20Extra%20Characters%20in%20a%20String/question.md)
+
+* [Day 80 - Unique Paths](./Day%2080%20-%20Unique%20Paths/question.md)
