@@ -1,15 +1,15 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 9 days (day 76 - current)
-### Longest Commit Streak : 9 days (day 76 - current)
-### Participation Rate : 34.5% 
-(Days committed / Total days) = 29/84
+### Current Commit Streak : 10 days (day 76 - current)
+### Longest Commit Streak : 10 days (day 76 - current)
+### Participation Rate : 35.3% 
+(Days committed / Total days) = 30/85
 
 -----
 
 #### Solved Coding Questions:
-##### Easy : 15
+##### Easy : 16
 ##### Medium: 14
 ##### Hard  : 0
 
@@ -45,6 +45,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 78 - Counting Bits](./Day%2078%20-%20Counting%20Bits/question.md)
 
 * [Day 81 - Linked List Cycle](./Day%2081%20-%20Linked%20List%20Cycle/question.md)
+
+* [Day 85 - Pascal's Triangle](./Day%2085%20-%20Pascal%27s%20Triangle/question.md)
 
 ### Medium Questions:
 
