@@ -1,15 +1,15 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 11 days (day 76 - current)
-### Longest Commit Streak : 11 days (day 76 - current)
-### Participation Rate : 36% 
-(Days committed / Total days) = 31/86
+### Current Commit Streak : 12 days (day 76 - current)
+### Longest Commit Streak : 12 days (day 76 - current)
+### Participation Rate : 36.8% 
+(Days committed / Total days) = 32/87
 
 -----
 
 #### Solved Coding Questions:
-##### Easy : 17
+##### Easy : 18
 ##### Medium: 14
 ##### Hard  : 0
 
@@ -49,6 +49,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 85 - Pascal's Triangle](./Day%2085%20-%20Pascal%27s%20Triangle/question.md)
 
 * [Day 86 - Longest Common Prefix](./Day%2086%20-%20Longest%20Common%20Prefix/question.md)
+
+* [Day 87 - Binary Tree Inorder Traversal](./Day%2087%20-%20Binary%20Tree%20Inorder%20Traversal/question.md)
 
 ### Medium Questions:
 
