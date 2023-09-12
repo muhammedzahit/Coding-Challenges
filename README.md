@@ -1,15 +1,15 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 13 days (day 76 - current)
-### Longest Commit Streak : 13 days (day 76 - current)
-### Participation Rate : 37.5% 
-(Days committed / Total days) = 33/88
+### Current Commit Streak : 14 days (day 76 - current)
+### Longest Commit Streak : 14 days (day 76 - current)
+### Participation Rate : 38.2% 
+(Days committed / Total days) = 34/89
 
 -----
 
 #### Solved Coding Questions:
-##### Easy : 19
+##### Easy : 20
 ##### Medium: 14
 ##### Hard  : 0
 
@@ -53,6 +53,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 87 - Binary Tree Inorder Traversal](./Day%2087%20-%20Binary%20Tree%20Inorder%20Traversal/question.md)
 
 * [Day 88 - Same Tree](./Day%2088%20-%20Same%20Tree/question.md)
+
+* [Day 89 - Find the Index of the First Occurrence in a String](./Day%2089%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/question.md)
 
 ### Medium Questions:
 
