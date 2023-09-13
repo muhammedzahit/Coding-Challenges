@@ -1,15 +1,15 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 14 days (day 76 - current)
-### Longest Commit Streak : 14 days (day 76 - current)
-### Participation Rate : 38.2% 
-(Days committed / Total days) = 34/89
+### Current Commit Streak : 15 days (day 76 - current)
+### Longest Commit Streak : 15 days (day 76 - current)
+### Participation Rate : 38.9% 
+(Days committed / Total days) = 35/90
 
 -----
 
 #### Solved Coding Questions:
-##### Easy : 20
+##### Easy : 21
 ##### Medium: 14
 ##### Hard  : 0
 
@@ -55,6 +55,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 88 - Same Tree](./Day%2088%20-%20Same%20Tree/question.md)
 
 * [Day 89 - Find the Index of the First Occurrence in a String](./Day%2089%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/question.md)
+
+* [Day 90 - Pascal's Triangle II](./Day%2090%20-%20Pascal%27s%20Triangle%20II/question.md)
 
 ### Medium Questions:
 
