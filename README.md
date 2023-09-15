@@ -1,15 +1,15 @@
 This repository is created for creating habit of daily coding. I will be adding one problem daily and will be solving it. I will be explaining solutions as well. 
 
 
-### Current Commit Streak : 16 days (day 76 - current)
-### Longest Commit Streak : 16 days (day 76 - current)
-### Participation Rate : 39.6% 
-(Days committed / Total days) = 36/91
+### Current Commit Streak : 17 days (day 76 - current)
+### Longest Commit Streak : 17 days (day 76 - current)
+### Participation Rate : 40.2% 
+(Days committed / Total days) = 37/92
 
 -----
 
 #### Solved Coding Questions:
-##### Easy : 22
+##### Easy : 23
 ##### Medium: 14
 ##### Hard  : 0
 
@@ -59,6 +59,8 @@ This repository is created for creating habit of daily coding. I will be adding 
 * [Day 90 - Pascal's Triangle II](./Day%2090%20-%20Pascal%27s%20Triangle%20II/question.md)
 
 * [Day 91 - Implement Stack using Queues](./Day%2091%20-%20Implement%20Stack%20using%20Queues/question.md)
+
+* [Day 92 - Remove Duplicates from Sorted List](./Day%2092%20-%20Remove%20Duplicates%20from%20Sorted%20List/question.md)
 
 ### Medium Questions:
 
